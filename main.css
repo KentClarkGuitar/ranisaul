@@ -1,0 +1,11 @@
+header {
+    font-family: monospace;
+}
+
+ul {
+    list-style-type: none;
+  }
+
+a {
+    display: block;
+}

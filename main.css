@@ -8,4 +8,14 @@ ul {
 
 a {
     display: block;
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: green;
+}
+
+body {
+    background-color: #EAEBCB;
 }

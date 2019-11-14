@@ -2,12 +2,23 @@ header {
     font-family: monospace;
     float: right;
     padding-right: 20%;
+    font-size: 100px;
 }
 
 ul {
     list-style-type: none;
+    padding-top: 30%;
   }
+ li {
+    line-height: 50px;
+    font-size: 30px;
 
+  }
+li:hover {
+    background-color: aliceblue;
+    opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+}
 a {
     display: block;
     text-decoration: none;

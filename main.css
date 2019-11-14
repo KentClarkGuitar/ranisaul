@@ -1,5 +1,7 @@
 header {
     font-family: monospace;
+    float: right;
+    padding-right: 20%;
 }
 
 ul {
@@ -10,6 +12,7 @@ a {
     display: block;
     text-decoration: none;
     color: black;
+
 }
 
 a:hover {

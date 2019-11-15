@@ -7,20 +7,20 @@ header {
 
 ul {
     list-style-type: none;
-    padding-top: 30%;
+    padding-top: 20%;
   }
  li {
     line-height: 50px;
     font-size: 30px;
 
   }
-li:hover {
+/* li:hover {
     background-color: aliceblue;
     opacity: 0.5;
-    filter: alpha(opacity=50); /* For IE8 and earlier */
-}
+    filter: alpha(opacity=50); 
+} */
 a {
-    display: block;
+     /* display: block; */
     text-decoration: none;
     color: black;
 
@@ -28,8 +28,15 @@ a {
 
 a:hover {
     color: green;
+    font-size: 150%;
 }
 
 body {
     background-color: #EAEBCB;
 }
+
+#bio {
+    padding-top: 20%;
+}
+
+  

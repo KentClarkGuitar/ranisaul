@@ -7,7 +7,7 @@ header {
 
 ul {
     list-style-type: none;
-    padding-top: 20%;
+    padding-top: 10%;
   }
  li {
     line-height: 50px;
@@ -28,15 +28,18 @@ a {
 
 a:hover {
     color: green;
-    font-size: 150%;
 }
 
+li a:hover {
+    font-size: 150%;
+}
 body {
     background-color: #EAEBCB;
+    font-size: 120%;
 }
 
 #bio {
-    padding-top: 20%;
+    padding-top: 40%;
 }
 
   
